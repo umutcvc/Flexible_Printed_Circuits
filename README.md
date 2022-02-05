@@ -4,5 +4,5 @@ Here is the proposal of workflow to fabricate flexible circuits. What makes the 
 Bill of Materials (BOM);
 - P
 
-*Workflow;
+Workflow;
 ![](Images/Model.PNG)
